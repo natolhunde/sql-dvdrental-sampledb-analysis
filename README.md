@@ -1,5 +1,5 @@
 # Sql Dvdrental Sample db Analysis Project
-## Group -2.
+
 --- 
 **Section 1: DML (Data Manipulation Language) – 5 Questions**
 
